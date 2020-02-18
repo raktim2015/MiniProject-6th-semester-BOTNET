@@ -1,0 +1,6 @@
+Initialization time is 12/02/2019:21:47:30.75
+Initialization time is 12/02/2019:21:56:26.34
+Initialization time is 12/02/2019:21:56:26.35
+Initialization time is 12/02/2019:21:58:15.25
+Initialization time is 12/02/2019:21:58:15.26
+Initialization time is 12/02/2019:22:01:41.22
